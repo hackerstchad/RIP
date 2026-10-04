@@ -1,8 +1,11 @@
 # Guide Avancé du Protocole RIP (Routing Information Protocol)
 
+<img width="390" height="253" alt="rip-protocol-routing-information-acronym-260nw-2397004771" src="https://github.com/user-attachments/assets/0304339e-05a7-4e90-9f64-639d11f5b4d0" />
+
+
 **Auteur : Hackers_Tchad**  
-**Version : 3.0**  
-**Date : 2025**  
+**Version : 1.0**  
+**Date : 2026**  
 **Licence : Libre pour apprentissage et recherche**
 
 ---
